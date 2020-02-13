@@ -1,0 +1,8 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/Qt/TP0
+-- Configuring done
+CMake Error in CMakeLists.txt:
+  The CXX_STANDARD property on target "TP0" contained an invalid value: "20".
+
+
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Remi/Documents/Ecole/CIR2/Informatique/C++/Qt/TP0/cmake-build-debug
